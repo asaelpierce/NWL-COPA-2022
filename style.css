@@ -27,7 +27,7 @@ header{
 }
 #cards {
     display: flex;
-    flex-direction: column;
+    flex-direction: initial;
     gap: 32px;
 }
 .card{
